@@ -10,3 +10,7 @@
 完事后你拖入的apk包应该是刚刚修改过的
 
 然后在Android killer签名就能安装了
+
+preview Realese
+
+还没有实机测试，过几天可能会更新
