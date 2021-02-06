@@ -11,6 +11,4 @@
 
 然后在Android killer签名就能安装了
 
-preview Realese
-
-还没有实机测试，过几天可能会更新
+经测试，配合fakeserver 比较稳定
