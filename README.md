@@ -10,3 +10,5 @@
 完事后你拖入的apk包应该是刚刚修改过的
 
 然后在Android killer签名就能安装了
+
+经测试，配合fakeserver 比较稳定
