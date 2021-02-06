@@ -12,3 +12,7 @@
 然后在Android killer签名就能安装了
 
 经测试，配合fakeserver 比较稳定
+
+# 目前已知bug : 可能apk文件消失了
+
+在dec文件夹里dist里就是更改的程序
